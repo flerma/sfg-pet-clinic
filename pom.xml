@@ -53,5 +53,6 @@
     <scm>
         <developerConnection>scm:git:git@github.com:flerma/sfg-pet-clinic.git</developerConnection>
         <tag>sfg-pet-clinic-0.0.3</tag>
-    </scm>git
+  </scm>
+
 </project>
