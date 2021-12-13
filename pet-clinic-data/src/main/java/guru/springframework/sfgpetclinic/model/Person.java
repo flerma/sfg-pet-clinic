@@ -4,6 +4,7 @@ package guru.springframework.sfgpetclinic.model;
  * @author flerma
  */
 public class Person {
+
     private String firstName;
     private String lastName;
 
